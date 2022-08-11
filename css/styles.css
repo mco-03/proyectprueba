@@ -12,8 +12,8 @@ header{
     justify-content: space-between;
     height: 150px;
     padding: 50px;
-    /* background-color: pink;
-    background-image: linear-gradient(315deg, pink, beige); */
+    background-color: pink;
+    background-image: linear-gradient(315deg, pink, beige);
 }
 
 /* Estilos del main */
